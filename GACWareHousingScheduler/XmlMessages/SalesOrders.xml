@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<SalesOrders>
+  <SalesOrder OrderCode="OD0001" CustomerCode="C000001" OrderDate="2020-09-16 14:35">
+    <SalesOrderDetails>
+      <SalesOrderDetail OrderCode="OD0001" ProductCode="P00001" Quantity="10"></SalesOrderDetail>
+    </SalesOrderDetails>
+  </SalesOrder>
+</SalesOrders>
